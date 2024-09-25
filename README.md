@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Kamiński</h1>
 <h3 align="center">A freelancer web developer.</h3>
 
-- 🔭 I’m currently working on [StockLevels](https://github.com/danilla-dev/MERN-stocklevels)
-
 - 📫 How to reach me **DanillaDev@proton.me**
 
 <h3 align="left">Connect with me:</h3>
