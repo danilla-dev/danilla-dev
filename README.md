@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/petrowebsolutions) 
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=Internet&logoColor=white)](https://www.petroweb.pl)
+[![Website](https://img.shields.io/badge/Website-%2300A9E0.svg?logo=globe&logoColor=white)](https://www.petroweb.pl)
 
 
 # 💻 Tech Stack:
